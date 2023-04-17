@@ -74,6 +74,7 @@ if __name__=="__main__":
         
         
         B=IntArray().Input(N)
+        #b
         
         obj = Solution()
         res = obj.solve(N, A, B)
