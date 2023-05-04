@@ -33,4 +33,4 @@ for _ in range(int(input())):
     n,k = map(int, input().split())
     sweetness = [int(i) for i in input().split()]
     print(Solution().maxSweetness(sweetness, n,k))
-# } Driver Code Ends
+# } Driver Code End
